@@ -1,2 +1,2 @@
 # Internship-at-YBI-Foundation
-Internship in Business Analytics
+Internship in Fundamental of Business Analytics with Python
